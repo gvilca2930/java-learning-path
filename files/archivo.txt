@@ -1,0 +1,5 @@
+Cafe - 5.50
+Pizza - 5.50
+Gaseosa - 5.50
+Te - 5.50
+Helado - 5.50
