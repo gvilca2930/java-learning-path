@@ -56,6 +56,7 @@ try {
 } finally {
     // Code that always runs (optional)
 }
+---
 🧩 Creating a Custom Exception
 public class TemperaturaInvalidaException extends Exception {
     public TemperaturaInvalidaException(String message) {
